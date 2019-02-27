@@ -1,4 +1,6 @@
-#! python3 Gra Kółko i krzyżyk dla dwóch graczy
+'''
+My first attempt to recreate TicTacToe game. Code is a little clumsy but works
+'''
 import pyfiglet
 
 
